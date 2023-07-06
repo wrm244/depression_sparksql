@@ -1,5 +1,5 @@
 # depression_sparksql
-[bigdata_depression](https://github.com/wrm244/bigdata_depression)项目spark部分代码
+[bigdata_depression](https://github.com/wrm244/bigdata_depression)项目spark部分代码，spark机器学习预测见项目[depression_pedictions](https://github.com/peoplemaker/depression_pedictions)
 
 ## 贡献者
 
